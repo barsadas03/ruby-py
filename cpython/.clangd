@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-DPy_BUILD_CORE"
+    - "-I/Users/rahuldeb/Desktop/Development/Hire/flavour/barsa/cpython"
+    - "-I/Users/rahuldeb/Desktop/Development/Hire/flavour/barsa/cpython/Include"
+    - "-I/Users/rahuldeb/Desktop/Development/Hire/flavour/barsa/cpython/Include/internal"
